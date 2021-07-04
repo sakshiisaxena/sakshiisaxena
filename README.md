@@ -4,15 +4,15 @@
 
 - 🌱 I’m currently learning **React and Flutter.**
 
-- 👨‍💻 All of my Flutter projects are available at [Sakshi Saxena](https://sakshiisaxena.github.io/)
+- 👨‍💻 All of my Flutter projects are available at [Sakshi Saxena](https://sakshiisaxena.github.io/).
 
-- 📝 I regularly write articles on [Medium.com](https://medium.com/@Sakshi_Saxena)
+- 📝 I regularly write articles on [Medium.com](https://medium.com/@Sakshi_Saxena).
 
 - 💬 Ask me about **anything.**
 
 - 📫 How to reach me **sakshisaxena0808@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1pyd3NuZKa-O82Obj4qHV1KD8vS-sGbux/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1pyd3NuZKa-O82Obj4qHV1KD8vS-sGbux/view).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
