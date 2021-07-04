@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **React and Flutter.**
 
-- 👨‍💻 All of my Flutter projects are available at [https://sakshiisaxena.github.io/](https://sakshiisaxena.github.io/)
+- 👨‍💻 All of my Flutter projects are available at [Sakshi Saxena](https://sakshiisaxena.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@sakshisaxena0808](https://medium.com/@sakshisaxena0808)
+- 📝 I regularly write articles on [Medium.com](https://medium.com/@Sakshi_Saxena)
 
 - 💬 Ask me about **anything.**
 
