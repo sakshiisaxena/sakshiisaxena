@@ -1,5 +1,5 @@
 ![Sakshi's GitHub background](https://user-images.githubusercontent.com/68650106/122827301-ce082380-d301-11eb-8848-f12594c2067d.jpg)
-<h1>Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Darsh Gupta. </h1>
+<h1>Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Sakshi Saxena. </h1>
 <h3 align="center">I am a pre-final year engineering student at Banasthali Vidyapith. I make it my mission to translate user-focused designs into pixel-perfect websites and applications that run blazing fast.</h3>
 
 - 🌱 I’m currently learning **React and Flutter.**
