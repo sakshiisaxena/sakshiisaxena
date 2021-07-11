@@ -33,5 +33,5 @@
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
+  <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
