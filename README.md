@@ -35,3 +35,5 @@
 <p align="center">
   <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sakshiisaxena alt=sakshiisaxena/></p>
