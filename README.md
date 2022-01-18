@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React and Flutter.**
 
-- 👨‍💻 All of my Flutter projects are available at [my portfolio](https://sakshiisaxena.github.io/).
+- 👨‍💻 All of my Flutter projects are available at [my portfolio](https://sakshi-saxena-portfolio.netlify.app/#/).
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@Sakshi_Saxena).
 
