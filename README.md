@@ -4,24 +4,21 @@
 
 - 🌱 I’m currently learning **React and Flutter.**
 
-- 👨‍💻 All of my Flutter projects are available at [Sakshi Saxena](https://sakshiisaxena.github.io/).
+- 👨‍💻 All of my Flutter projects are available at [my portfolio](https://sakshiisaxena.github.io/).
 
-- 📝 I regularly write articles on [Medium.com](https://medium.com/@Sakshi_Saxena).
+- 📝 I regularly write articles on [Medium](https://medium.com/@Sakshi_Saxena).
 
 - 💬 Ask me about **anything.**
 
 - 📫 How to reach me **sakshisaxena0808@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1pyd3NuZKa-O82Obj4qHV1KD8vS-sGbux/view).
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1yDzPblnSkd_NHDKiiylrbc-Ujjfzwl9M/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sakshiempowers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshiempowers" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakshi-saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-saxena" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sakshiisaxena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sakshiisaxena" height="30" width="40" /></a>
 <a href="https://medium.com/@sakshisaxena0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sakshisaxena0808" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sakshi saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sakshi saxena" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sakshi_saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshi_saxena" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and frameworks I've worked with:</h3>
